@@ -1,0 +1,42 @@
+export const servicesData = [
+  {
+    id: "body-repair",
+    number: "01",
+    title: "Body Repair",
+    description: "Perbaikan bagian body motor yang mengalami kerusakan, penyok, retak, atau cacat fisik agar kembali terlihat lebih baik.",
+    iconName: "Wrench",
+    featured: true,
+  },
+  {
+    id: "cat-motor",
+    number: "02",
+    title: "Cat Motor",
+    description: "Layanan pengecatan ulang motor untuk memberikan tampilan yang lebih segar, bersih, dan menarik.",
+    iconName: "Paintbrush",
+    featured: true,
+  },
+  {
+    id: "modifikasi-bore-up",
+    number: "03",
+    title: "Modifikasi & Bore Up",
+    description: "Layanan modifikasi motor dan bore up sesuai kebutuhan pelanggan.",
+    iconName: "Flame",
+    featured: false,
+  },
+  {
+    id: "ganti-oli",
+    number: "04",
+    title: "Ganti Oli",
+    description: "Penggantian oli untuk membantu menjaga performa dan kondisi mesin motor.",
+    iconName: "Droplet",
+    featured: false,
+  },
+  {
+    id: "servis-berkala",
+    number: "05",
+    title: "Servis Berkala",
+    description: "Perawatan rutin motor untuk membantu menjaga performa dan memastikan kondisi kendaraan tetap terawat.",
+    iconName: "Settings",
+    featured: false,
+  },
+];
