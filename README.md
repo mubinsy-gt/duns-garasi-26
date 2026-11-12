@@ -191,4 +191,4 @@ Edit untuk menyesuaikan metadata project.
 
 ---
 
-**Dibuat dengan presisi dan passion.** 🚀
+**Dibuat oleh Muhammad Bintang Syakhila.** 
